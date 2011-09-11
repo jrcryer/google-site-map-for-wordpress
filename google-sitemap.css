@@ -1,0 +1,27 @@
+
+.settings_page_google-sitemap .section {
+    border-bottom: 1px dashed #CCC;
+    clear: both;
+}
+
+.settings_page_google-sitemap .form-field,
+.settings_page_google-sitemap .form-label {
+    float: left;
+}
+.settings_page_google-sitemap .form-label {
+    padding: 5px 10px 0 0;
+}
+.settings_page_google-sitemap h5.form-label,
+.settings_page_google-sitemap h4.form-label {
+    margin: 10px 0;
+    padding: 5px 10px 0;
+}
+.settings_page_google-sitemap .tags {
+    clear: both;
+}
+.settings_page_google-sitemap #categories-tags .form-label {
+    width: 100px;
+}
+.settings_page_google-sitemap .clearing {
+    clear: both;
+}
